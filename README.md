@@ -8,7 +8,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-solution-NvaLDVs0Z9)
 - Live Site URL: [Deploy](https://kalebemax.github.io/results-summary-component-main/)
 
 
